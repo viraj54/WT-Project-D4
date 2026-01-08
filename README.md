@@ -1,5 +1,5 @@
 # WT-Project-D4
-##🏙️ CivicFix – Smart Civic Issue Management System
+🏙️ CivicFix – Smart Civic Issue Management System
 
 CivicFix is a web-based platform that simplifies how citizens report and track civic issues. It acts as a digital bridge between the public and civic authorities, ensuring transparency, accountability, and faster resolution of problems faced in daily life.
 
